@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Trained models (large)
+models/*.keras
+models/*.h5
+
+# Outputs
+outputs/plots/*.png
+outputs/reports/*.txt
+outputs/reports/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Keep folder structure
+!models/.gitkeep
+!outputs/plots/.gitkeep
+!outputs/reports/.gitkeep
+!sample_images/.gitkeep
