@@ -1,0 +1,76 @@
+{
+    "best_model": "Logistic Regression",
+    "accuracy": 0.8618,
+    "precision": 0.84,
+    "recall": 0.9882,
+    "f1_score": 0.9081,
+    "cv_f1": 0.8755,
+    "training_date": "2026-06-07 12:20:00",
+    "feature_columns": [
+        "Gender",
+        "Married",
+        "Education",
+        "Self_Employed",
+        "Property_Area",
+        "Dependents",
+        "ApplicantIncome",
+        "CoapplicantIncome",
+        "LoanAmount",
+        "Loan_Amount_Term",
+        "Credit_History"
+    ],
+    "target_column": "Loan_Status",
+    "dataset_size": 614,
+    "train_size": 491,
+    "test_size": 123,
+    "all_model_results": [
+        {
+            "model": "Logistic Regression",
+            "accuracy": 0.8618,
+            "precision": 0.84,
+            "recall": 0.9882,
+            "f1": 0.9081,
+            "cv_f1": 0.8755
+        },
+        {
+            "model": "Decision Tree",
+            "accuracy": 0.748,
+            "precision": 0.8214,
+            "recall": 0.8118,
+            "f1": 0.8166,
+            "cv_f1": 0.7927
+        },
+        {
+            "model": "Random Forest",
+            "accuracy": 0.8374,
+            "precision": 0.8495,
+            "recall": 0.9294,
+            "f1": 0.8876,
+            "cv_f1": 0.8549
+        },
+        {
+            "model": "Support Vector Classifier",
+            "accuracy": 0.8455,
+            "precision": 0.8235,
+            "recall": 0.9882,
+            "f1": 0.8984,
+            "cv_f1": 0.8724
+        },
+        {
+            "model": "K-Nearest Neighbors",
+            "accuracy": 0.8374,
+            "precision": 0.8283,
+            "recall": 0.9647,
+            "f1": 0.8913,
+            "cv_f1": 0.8668
+        },
+        {
+            "model": "Gradient Boosting",
+            "accuracy": 0.813,
+            "precision": 0.8229,
+            "recall": 0.9294,
+            "f1": 0.8729,
+            "cv_f1": 0.8459
+        }
+    ]
+}

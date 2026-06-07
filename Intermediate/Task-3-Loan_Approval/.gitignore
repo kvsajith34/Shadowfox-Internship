@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Note: trained model files in models/ are intentionally NOT ignored
+# so the Streamlit app works on first clone. Remove the next lines if
+# you prefer to regenerate them locally.
+# models/*.pkl
+# models/*.json
