@@ -1,0 +1,4 @@
+# This file keeps the directory in git.
+# EDA and evaluation plots will be saved here after running:
+#   python -m src.eda
+#   python -m src.evaluate_model
