@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated outputs (auto-created by scripts)
+outputs/plots/*.png
+
+# Saved models (auto-created by training)
+models/*.pkl
+
+# Keep important source files
+!README.md
+!run_project.md
+!requirements.txt
+!src/
+!app/
+!data/.gitkeep
