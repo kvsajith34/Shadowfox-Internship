@@ -1,0 +1,118 @@
+I am going to the market after class.
+She is going to the library to study.
+They are going to the office early today.
+We are going to the store in the evening.
+He is going to the school by bus.
+I will call you after lunch.
+Please call me when you reach home.
+Can we meet at the cafe tomorrow.
+I have a meeting at the office.
+The manager sent an important email.
+She replied to the message quickly.
+We shared the project update in the group.
+Our team completed the report before deadline.
+I need to buy fruits and vegetables.
+The shop is open until nine at night.
+My friend bought a new laptop yesterday.
+I am learning machine learning in college.
+The teacher explained the topic clearly.
+Students submitted the assignment on time.
+The exam will start at ten in the morning.
+I take notes during every lecture.
+We discuss ideas in the classroom.
+He forgot to bring his notebook.
+She wrote a summary after reading the chapter.
+The university campus is very beautiful.
+They walked to the bus stop together.
+I booked a train ticket for next week.
+Our flight leaves in the early morning.
+The hotel room was clean and comfortable.
+We visited the city museum last weekend.
+Please share your location with me.
+I am waiting for your reply.
+Can you send the document again.
+The internet connection is stable now.
+My phone battery is low.
+I charged my phone before leaving.
+The app is easy to use.
+This software helps us work faster.
+We tested the new feature today.
+The update fixed several bugs.
+I installed the latest version this morning.
+Please restart the system once.
+He connected the keyboard to the laptop.
+She configured the settings for notifications.
+We saved the file in the project folder.
+The database stores customer details.
+Security is important for online communication.
+The server responded with a success message.
+Our code passed all test cases.
+The developer reviewed the pull request.
+I am preparing for the internship interview.
+She practices coding every day.
+We solved the problem using Python.
+Natural language processing is an interesting field.
+The model predicts the next word.
+Autocorrect improves typing accuracy.
+Users expect quick and helpful suggestions.
+Context helps the model choose better words.
+The sentence starts with a clear subject.
+He goes to college every weekday.
+She attends online classes in the afternoon.
+We have lunch in the cafeteria.
+I drink coffee before my first meeting.
+They planned a short trip to the hills.
+My parents are traveling to another city.
+The train arrived on platform three.
+We packed our bags last night.
+I checked the weather before traveling.
+The road was busy during rush hour.
+Please book a cab for the airport.
+He ordered groceries from the mobile app.
+She compared prices before buying shoes.
+The cashier gave us a printed bill.
+I paid with my debit card.
+We visited two stores in the mall.
+They bought gifts for their friends.
+I forgot my wallet at home.
+Please bring your identity card tomorrow.
+The professor announced the project topic.
+Students formed teams for the hackathon.
+Our presentation starts at noon.
+She designed the slides for the seminar.
+He practiced speaking in front of the mirror.
+We received positive feedback from mentors.
+The deadline is next Friday evening.
+I created a checklist for all tasks.
+The team discussed risks and solutions.
+Communication keeps the project on track.
+Please update the status by tonight.
+I sent a reminder to everyone.
+The client approved the final design.
+We deployed the app to production.
+Monitoring tools alert us about errors.
+The issue was resolved in one hour.
+He documented the process step by step.
+She shared useful resources with juniors.
+We learn better by building real projects.
+Practice makes coding skills stronger.
+Consistency is the key to improvement.
+Small progress every day leads to success.
+I am going to the market with my brother.
+I am going to the school to submit forms.
+I am going to the office to join a meeting.
+I am going to the store to buy milk.
+I am going to the city center now.
+I am going to the station by taxi.
+I am going to the park for a walk.
+I am going to the bank after work.
+I am going to the hospital to visit my uncle.
+I am going to the airport to pick up my friend.
+Thank you for your quick response.
+Let us schedule a call for tomorrow.
+Please review the document and share comments.
+The report is ready for submission.
+Our class starts at nine every day.
+The office meeting starts at ten every day.
+The market opens at seven in the morning.
+The store closes at nine in the evening.
