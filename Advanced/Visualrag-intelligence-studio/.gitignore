@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+env/
+.venv/
+.env
+*.db
+*.sqlite3
+*.log
+
+# Backend specific
+backend/uploads/
+backend/chroma_db/
+backend/visualrag.db
+backend/.env
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+*.tsbuildinfo
+
+# Docker
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Reports / Screenshots (keep dirs, ignore files)
+reports/*.pdf
+reports/*.csv
+screenshots/*.png
+screenshots/*.jpg

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.env
+.venv/
+venv/
+*.db
+*.sqlite3
+uploads/
+chroma_db/
+.pytest_cache/
+tests/
+scripts/
+ruff_cache/

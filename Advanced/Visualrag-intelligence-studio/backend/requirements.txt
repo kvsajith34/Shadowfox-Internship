@@ -1,0 +1,44 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+python-multipart==0.0.20
+
+# Database
+sqlalchemy==2.0.36
+alembic==1.14.1
+psycopg2-binary==2.9.10
+
+# Vector Store
+chromadb==0.5.23
+
+# Document Processing
+PyMuPDF==1.25.3
+pdfplumber==0.11.4
+Pillow==11.1.0
+pandas==2.2.3
+openpyxl==3.1.5
+
+# AI Providers
+openai==1.58.1
+google-generativeai==0.8.4
+huggingface-hub==0.27.1
+anthropic==0.42.0
+
+# Cloud Storage
+boto3==1.36.2
+
+# Utilities
+httpx==0.28.1
+requests==2.32.3
+numpy==2.2.1
+scikit-learn==1.6.1
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.24.0
+
+# Linting
+ruff==0.8.6
