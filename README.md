@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shadowfox Internship Projects
+# <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/a514850e-c3ad-4309-9bbe-6ac9e78761dc" /> Shadowfox Internship Projects
 </div>
 
 This repository contains task-wise projects completed as part of the **Shadowfox Internship**, organized across **Basic**, **Intermediate**, and **Advanced** difficulty levels. The projects cover Python programming, data analysis, machine learning, NLP, computer vision, and a full-stack multimodal AI application.
