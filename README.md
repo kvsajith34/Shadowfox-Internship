@@ -17,7 +17,7 @@ This repository contains task-wise projects completed as part of the **Shadowfox
 | Intermediate | Task 1 | Store Sales Profit Analysis | Data Analysis / EDA | ✅ Complete |
 | Intermediate | Task 2 | Car Price Prediction | Regression / ML | ✅ Complete |
 | Intermediate | Task 3 | Loan Approval Prediction | Classification / ML | ✅ Complete |
-| Advanced | — | VisualRAG Intelligence Studio | Multimodal AI / Full-Stack | 🔄 In Progress |
+| Advanced | — | VisualRAG Intelligence Studio | Multimodal AI / Full-Stack | 🟡 Partially Working  |
 
 ---
 
